@@ -3,4 +3,7 @@
  useradd $uname
  read -p "enter the password:" pname
  echo $uname:$pname | chpasswd
-
+ggg
+jj
+kk
+ll
